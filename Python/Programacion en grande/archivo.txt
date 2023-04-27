@@ -1,0 +1,18 @@
+ Variables y almacenamiento.
+o Estructuras de control de base.
+o Declaraciones, manejo del alcance de los identificadores. ¿Hay estructura de bloques?
+o Secuenciadores (manejo de escapes, excepciones, errores, continuaciones).
+o ¿Hay generadores, iteradores o corrutinas en el lenguaje? [Nota: no incluyan gorrutinas, hilos, 
+procesos comunicantes, asincronía, sincronía, etc. Manténganse en el ‘mundo’ de la programación 
+secuencial]
+o Mecanismos de abstracción (procedimientos/funciones, datos, clases). Incluir paso de 
+parámetros/argumentos y estrategia(s) de evaluación.
+o Soporte a ‘programación en grande’. Mecanismos de modularización (empaquetamiento, espacios de 
+nombres). Considerar encapsulamiento y control de visibilidad.
+o Sistema de tipos (¿es estático o dinámico?, ¿es monomórfico?, ¿polimórfico y cómo?, ¿hay inferencia 
+de tipos?, etc.).
+o Genericidad (¿cómo se relaciona con el sistema de tipos?). ¿Qué puede ser (o hacerse) genérico?
+o Soporte a paradigmas (imperativo, objetos, funciones, relaciones, predicados, etc.).
+o Incluir ejemplos (pueden ser originales o provenir de la literatura).
+o Análisis crítico y conclusiones sobre el lenguaje.
+o Referencias a fuentes de información consultada y p
