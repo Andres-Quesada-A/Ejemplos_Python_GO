@@ -1,0 +1,23 @@
+package main
+
+import "fmt"
+
+type Persona struct {
+	Nombre string
+	Edad   int
+}
+
+func (p Persona) Presentarse() {
+	fmt.Printf("Hola, mi nombre es %s y tengo %d años.\n", p.Nombre, p.Edad)
+}
+
+func main() {
+	// Crear una nueva instancia de la estructura Persona
+	p := Persona{
+		Nombre: "Joshua",
+		Edad:   24,
+	}
+
+	// Llamar al método Presentarse() de la instancia de Persona
+	p.Presentarse()
+}
